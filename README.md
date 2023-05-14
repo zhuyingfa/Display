@@ -1,2 +1,2 @@
 # Display
-通过MediaProjection录主屏幕数据采集，然后Display+Activity+OpenGL实现副屏渲染
+通过MediaProjection进行主屏幕数据采集，然后通过Display+Activity+OpenGL实现副屏渲染
